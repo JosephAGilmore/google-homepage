@@ -1,0 +1,81 @@
+#topleft {
+    display: inline-block;
+    margin: 20px 20px;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+#topright {
+    display: inline-block;
+    float: right;
+    margin: 15px 15px;
+}
+
+#signin-button {
+    background-color: rgb(66, 66, 252);
+    text-decoration: none;
+    float: right;
+    padding: 10px;
+}
+
+#main {
+    padding: 100px 0px 500px;
+}
+
+
+img{
+    vertical-align: middle;
+}
+
+#Google {
+    vertical-align:middle;
+	text-align:center;
+}
+
+#search_bar {
+    display: block;
+    text-align: center;
+}
+
+.searchbar {
+    width: 550px;
+    height: 50px;
+    border-radius: 50px; 
+}
+
+.button {
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 20px 5px;
+}
+
+footer {
+    background-color: grey; opacity: 0.45;
+    padding: 4px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+#bottomleft {
+    display: inline-block;
+
+}
+
+#bottomright {
+    display: inline-block;
+    float: right;
+    
+}
